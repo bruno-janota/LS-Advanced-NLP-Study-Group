@@ -2,7 +2,7 @@
 
 Current plan:
 
-- Monday, March 30th - 
+- Monday, March 30th
   - Introductions
   - Deep Dive on Text Classification techniques
 - Tuesday, March 31st
