@@ -1,6 +1,6 @@
 # LS-Advanced-NLP-Study-Group
 
-Current plan:
+Study Group schedule: (open to suggestions/updates)
 
 - Monday, March 30th
   - Introductions
