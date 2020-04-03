@@ -15,4 +15,4 @@ Study Group schedule: (open to suggestions/updates)
   - Discussion of Word2Vec
   - Text Summarization and Keyword Extraction / Misc. Topics
 - Friday, April 3rd 
-  - Final discussion of Advanced NLP study group
+  - Office Hours / Slack Support (as needed)
