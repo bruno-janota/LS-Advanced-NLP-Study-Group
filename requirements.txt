@@ -50,7 +50,7 @@ Pillow==7.0.0
 plotly==4.0.0
 prometheus-client==0.7.1
 prompt-toolkit==3.0.5
-Pygments==2.6.1
+Pygments==2.7.4
 pymagnitude==0.1.120
 pyparsing==2.4.6
 Pyphen==0.9.5
